@@ -19,6 +19,7 @@ namespace StudentCrud.Models {
             StudentId = studentId;
             Studentname = studentname;
             Age = age;
+            // aksel er bøgse
         }
     }
 }
